@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/94852e6e-725f-44b6-a8fa-a1eb76689a68/resourceGroups/rg-teststreamlitauth/providers/Microsoft.Web/sites/teststreamlitauth",
+    "appService.deploySubpath": "project"
+}
