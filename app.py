@@ -1,4 +1,5 @@
 import streamlit as st
+import os
 from streamlit_msal import Msal
 from dotenv import load_dotenv
 
